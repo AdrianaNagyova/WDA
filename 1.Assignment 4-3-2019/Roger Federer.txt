@@ -3,7 +3,7 @@
 **Birthdate:** August 8, 1981  
 **Birthplace:** Basel, Switzerland
 
-![Roger Federer](https://www.google.sk/search?q=roger+federer+swiss+stamp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj8yqiQ5O3gAhXDIVAKHaeFDxQQ_AUIDigB&biw=1920&bih=984#imgdii=ZdYwK2yf2yXjRM:&imgrc=ZujNJzrQSnDabM:)
+!(https://github.com/AdrianaNagyova/WDA/blob/master/1.Assignment%204-3-2019/Roger-Federer1.jpg)
 
 [Roger Federer's](https://www.rogerfederer.com/) sweet forehand and court smarts have made him one of the top-ranked **tennis players** in the world.
 ***
@@ -21,7 +21,7 @@ Roger Federer's professional tennis career is still quite young, but some are pr
 * Roger Federer is one of the few professional tennis players in the world that does not have a full-time coach.
 * Roger Federer's favorite music is anything by AC/DC or Lenny Kravitz.
 * In 2007, Roger Federer became the first living Swiss person to be featured on a Swiss stamp. The postage picture features Roger holding the Wimbledon trophy.
-![Swiss stamp](Documents/GitHub/WDA/Assignment/Swiss stamp.jpg)
+![Swiss stamp](https://github.com/AdrianaNagyova/WDA/blob/master/1.Assignment%204-3-2019/Swiss%20stamp.jpg)
 
 ### Career Finals in Singles
 Type | Won | Lost | Total
